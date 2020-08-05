@@ -1,16 +1,21 @@
-### Hi there 👋
+### Hi, I'm Florian 👋
 
 <!--
 **fhussonnois/fhussonnois** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+I'm a software engineer and I work as Consultant and Apache Kafka Expert for StreamThoughts (https://streamthoughts.io), the company I founded with another Software Engineer. I'm a former Consultant from Zenika, a French IT consulting firm where I worked as Data Engineer and Big Data Director. During my career, I've worked on various projects involving the implementation of data integration and processing platforms through the worlds of Hadoop, Spark and Kafka. Passionate about data and distributed systems, I specialized in stream processing and event-driven architectures.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm also co-organizer of the Paris [Apache Kafka Meetup](https://www.meetup.com/fr-FR/Paris-Apache-Kafka-Meetup/), and speak regularly on this topic. 
+Involved in the opensource community, I've contributed to a few KIPs for KafkaStreams and create the [Azkarra Streams framework](https://www.azkarrastreams.io/).
+In 2019, I have been selected to be part of the [Confluent Community Catalyst](https://www.confluent.io/nominate/) program.
+
+Here are some projects, I'm currently working on 💻 : 
+ - [Azkarra Streams](https://www.azkarrastreams.io/)
+ - [Connect File Pulse](https://github.com/streamthoughts/kafka-connect-file-pulse)
+ - [Kafka Clients Kotlin](https://github.com/streamthoughts/kafka-clients-kotlin)
+ - [Kafka Streams CEP](https://github.com/fhussonnois/kafkastreams-cep)
+ 
+If you use or think that one of these projects can help you or your team to develop an application based on Kafka? Please 🌟 the repository to support my work!
+
+Find me around the web 🌍 :
+ - Sharing updates on [LinkedIn](https://www.linkedin.com/in/florian-hussonnois/) and [Twitter](https://twitter.com/fhussonnois)
