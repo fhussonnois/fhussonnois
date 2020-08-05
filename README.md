@@ -1,9 +1,7 @@
 ### Hi, I'm Florian 👋
 
-<!--
-**fhussonnois/fhussonnois** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-I'm a software engineer and I work as Consultant and Apache Kafka Expert for StreamThoughts (https://streamthoughts.io), the company I founded with another Software Engineer. I'm a former Consultant from Zenika, a French IT consulting firm where I worked as Data Engineer and Big Data Director. During my career, I've worked on various projects involving the implementation of data integration and processing platforms through the worlds of Hadoop, Spark and Kafka. Passionate about data and distributed systems, I specialized in stream processing and event-driven architectures.
+I'm a software engineer and I work as Consultant and Apache Kafka Expert for [StreamThoughts](https://streamthoughts.io), the company I founded with another Software Engineer. I'm a former Consultant from Zenika, a French IT consulting firm where I worked as Data Engineer and Big Data Director. During my career, I've worked on various projects involving the implementation of data integration and processing platforms through the worlds of Hadoop, Spark and Kafka. Passionate about data and distributed systems, I specialized in stream processing and event-driven architectures.
 
 I'm also co-organizer of the Paris [Apache Kafka Meetup](https://www.meetup.com/fr-FR/Paris-Apache-Kafka-Meetup/), and speak regularly on this topic. 
 Involved in the opensource community, I've contributed to a few KIPs for KafkaStreams and create the [Azkarra Streams framework](https://www.azkarrastreams.io/).
@@ -19,3 +17,7 @@ If you use or think that one of these projects can help you or your team to deve
 
 Find me around the web 🌍 :
  - Sharing updates on [LinkedIn](https://www.linkedin.com/in/florian-hussonnois/) and [Twitter](https://twitter.com/fhussonnois)
+ 
+<!--
+**fhussonnois/fhussonnois** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
