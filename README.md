@@ -16,7 +16,7 @@ Here are some projects, I'm currently working on 💻 :
 If you use or think that one of these projects can help you or your team to develop an application based on Kafka? Please 🌟 the repository to support my work!
 
 Find me around the web 🌍 :
- - Bloging on [Medium](https://medium.com/@fhussonnois) and [Dev.To](https://dev.to/fhussonnois)
+ - Blogging on [Medium](https://medium.com/@fhussonnois) and [Dev.To](https://dev.to/fhussonnois)
  - Sharing updates on [LinkedIn](https://www.linkedin.com/in/florian-hussonnois/) and [Twitter](https://twitter.com/fhussonnois)
  - Sharing talk presentations on [speakerdeck](https://speakerdeck.com/fhussonnois)
  
