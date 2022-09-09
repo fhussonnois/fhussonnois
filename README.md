@@ -12,6 +12,7 @@ Here are some projects, I'm currently working on 💻 :
  - [Connect File Pulse](https://github.com/streamthoughts/kafka-connect-file-pulse)
  - [Kafka Clients Kotlin](https://github.com/streamthoughts/kafka-clients-kotlin)
  - [Kafka Streams CEP](https://github.com/fhussonnois/kafkastreams-cep)
+ - [Jikkou](https://github.com/streamthoughts/jikkou)
  
 If you use or think that one of these projects can help you or your team to develop an application based on Kafka? Please 🌟 the repository to support my work!
 
